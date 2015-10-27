@@ -1,4 +1,4 @@
-# Vitaly Freedman
+# Vitaly Friedman
 
 ## Responsive Design
 
