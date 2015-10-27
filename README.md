@@ -8,3 +8,7 @@ Collaborative Note Taking: http://www.smashed.by/sydney
 
 * Workflow / Teamwork
 * Performance
+
+This workshop is about techniques.
+And about clever design patterns.
+And what works in real-life projects.
