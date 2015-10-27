@@ -2,4 +2,4 @@
 
 ## Responsive Design
 
-http://www.smashed.by/sydney
+Collaborative Note Taking: http://www.smashed.by/sydney
