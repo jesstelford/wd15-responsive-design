@@ -25,3 +25,4 @@ Everything is better with:
 * [Form UX](FORM_UX.md)
 * [Content Choreography](CONTENT_CHROREOGRAPHY.md)
 * [Resolution Independence](RESOLUTION_INDEPENDENC.md)
+* [Web Fonts Loading / Performance](WEB_FONTS_LOADING_PERFORMANCE.md)
