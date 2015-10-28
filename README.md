@@ -13,8 +13,15 @@ This workshop is about techniques.
 And about clever design patterns.
 And what works in real-life projects.
 
+Everything is better with:
+
+* `box-sizing: border-box`
+* `display: flex`
+* `table-layout: fixed`
+
 * [Workflow](WORKFLOW.md)
 * [Design](DESIGN.md)
 * [Design Patterns](DESIGN_PATTERNS.md)
 * [Form UX](FORM_UX.md)
 * [Content Choreography](CONTENT_CHROREOGRAPHY.md)
+* [Resolution Independence](RESOLUTION_INDEPENDENC.md)
