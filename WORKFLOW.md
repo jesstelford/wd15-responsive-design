@@ -55,6 +55,8 @@ can!
 
 #### Atomic Design
 
+http://bradfrost.com/blog/post/atomic-web-design/
+
 Atoms, Molecules, Organisms, Templates, Pages
 
 We think about the page at the very end of the process. _Not_ at the start.
@@ -246,5 +248,4 @@ _(no #5?)_
 
 > 6. *Redesigns* usually follow exactly the same process, but usually an
 > _interfacte inventory_ is made from existing page.
-
 
