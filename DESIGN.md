@@ -75,3 +75,16 @@ Huge conversion increases!
 Repackageing the carousel UX
 Prompt user to make a choice a) scroll up and read details, b) swipe down and
 browse photos
+
+### Menus
+
+With icon placed on right users tend to click on the icon - not on the text.
+
+All options with icons placed on the right resulted in slower task completion.
+
+20-30% click on th eicon when it's on the right, so make it big and easy to
+find. But no one clicks on the icon when it's on the left, so make the text
+bigger and easy to find.
+
+Always keep important actions visisble.
+Reduce complexit with tabs, etc
