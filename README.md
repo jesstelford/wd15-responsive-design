@@ -13,4 +13,5 @@ This workshop is about techniques.
 And about clever design patterns.
 And what works in real-life projects.
 
-[Workflow](WORKFLOW.md)
+* [Workflow](WORKFLOW.md)
+* [Design](DESIGN.md)
