@@ -28,3 +28,4 @@ TOC:
 * [Content Choreography](CONTENT_CHROREOGRAPHY.md)
 * [Resolution Independence](RESOLUTION_INDEPENDENC.md)
 * [Web Fonts Loading / Performance](WEB_FONTS_LOADING_PERFORMANCE.md)
+* [Responsive Images](RESPONSIVE_IMAGES.md)
