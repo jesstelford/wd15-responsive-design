@@ -53,3 +53,25 @@ Mobile in 2015
 
 Facebook's new app moves the buttons to the bottom. The most important actions
 are in the middle at the bottom as they're easier to hit.
+
+### View Mode
+
+Try to show as much of the content and as much of the menu at the same time.
+
+The menu stays open until the user dismisses it.
+
+* Eg; http://cancer.dk (on mobile).
+* Eg; cottonbureau.com for checkout - works on both desktop and mobile
+* gov.uk tried it with their nav, but it's too visually compilcated.
+
+### Carousel
+
+http://housing.com 's mobile app
+
+"Photo Stories" - Moving from a horizontal carousel to veritcal photos.
+
+Huge conversion increases!
+
+Repackageing the carousel UX
+Prompt user to make a choice a) scroll up and read details, b) swipe down and
+browse photos
