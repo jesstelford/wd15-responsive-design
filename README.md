@@ -15,3 +15,5 @@ And what works in real-life projects.
 
 * [Workflow](WORKFLOW.md)
 * [Design](DESIGN.md)
+* [Design Patterns](DESIGN_PATTERNS.md)
+* [Form UX](FORM_UX.md)
