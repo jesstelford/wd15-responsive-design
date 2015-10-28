@@ -17,3 +17,4 @@ And what works in real-life projects.
 * [Design](DESIGN.md)
 * [Design Patterns](DESIGN_PATTERNS.md)
 * [Form UX](FORM_UX.md)
+* [Content Choreography](CONTENT_CHROREOGRAPHY.md)
