@@ -52,6 +52,13 @@ But what about when the user scrolls over a map, which captures input?
 * Invisible div which goes away when clicked
 * Small image thumbnail which triggers load of map
 
+When you have lots and lots and lots of elements. Canvas + tiles works really
+really well. Only re-render the area the user is interacting with.
+
+Eg; http://seatgeek.com
+"High Performance Map Interactions Using HTML5 Canvas" - "ChairNerd" Aug 18th,
+2014.
+
 ## Responsive lightboxes
 
 Clicking an image to see it bigger should NOT make it smaller (because: lightbox
@@ -59,3 +66,14 @@ borders).
 
 If you don't have space to show lightbox, take user to a new page. If you do,
 show it.
+
+## Typography
+
+"On the typography of flight-deck documentation" - NASA, 1992
+
+Viewing distance is an important factor.
+
+Netflix: Relationship between height of movie cover and viewing distance. Using
+CSS inches measurements: 0.5" of height per foot of viewing distance
+
+"maratz" realtime typography zooming example.
