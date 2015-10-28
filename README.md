@@ -19,6 +19,8 @@ Everything is better with:
 * `display: flex`
 * `table-layout: fixed`
 
+TOC:
+
 * [Workflow](WORKFLOW.md)
 * [Design](DESIGN.md)
 * [Design Patterns](DESIGN_PATTERNS.md)
