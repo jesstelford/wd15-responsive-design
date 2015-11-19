@@ -12,8 +12,10 @@ Allows you to have the border & icon inherit the colour of the text on a button
 
 ## Long words
 
+```css
 overflow-wrap: break-word
 word-wrap: break-word
+```
 
 ## Nested links
 
@@ -35,7 +37,7 @@ Eg;
 
 Supports >= IE11 (partial IE9) (But can support floats, etc, as fallback)
 
-htp://jordanm.co.uk/contentchoreography.
+http://jordanm.co.uk/contentchoreography
 
 Flexbox tries to solve 2 things:
 
