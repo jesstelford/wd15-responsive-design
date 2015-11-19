@@ -37,7 +37,7 @@ Eg;
 
 Supports >= IE11 (partial IE9) (But can support floats, etc, as fallback)
 
-http://jordanm.co.uk/contentchoreography
+http://jordanm.co.uk/lab/contentchoreography/
 
 Flexbox tries to solve 2 things:
 
